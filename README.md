@@ -1,6 +1,6 @@
-# Services Demo
+# Tracker demo
 
-This is an Android demo for track
+This is an Android demo for track user data (each 1 minute)
 
 It read info from mobile and sent to server filebase:
 Call Log
